@@ -84,7 +84,7 @@ session_start();
                 <select class="select-input smaller-input margin-bottom-xsm" required id="type-input-select"
                     name="listing_type">
                     <option value="" disabled selected>Select Option</option>
-                    <option>Cars</option>
+                    <option>cars</option>
                     <option>Housings</option>
                     <option>Smartphones</option>
                     <option>Shoes</option>
